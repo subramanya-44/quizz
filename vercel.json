@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "nss-quiz-app",
+  "builds": [
+    { "src": "vibe/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/vibe/$1" },
+    { "src": "/", "dest": "/vibe/index.html" }
+  ]
+} 

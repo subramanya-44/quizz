@@ -1,0 +1,502 @@
+[
+  {
+    "question_text": "When the National Service Scheme (NSS) was officially launched in India?",
+    "options": ["1947", "1969", "1985", "2001"],
+    "correct_answer": "1969"
+  },
+  {
+    "question_text": "What is the primary focus of NSS Special Camps?",
+    "options": ["Urban tourism", "Community service and rural development", "Sports competitions", "Political awareness"],
+    "correct_answer": "Community service and rural development"
+  },
+  {
+    "question_text": "Which of the following activities is NOT typically part of NSS programs?",
+    "options": ["Blood donation drives", "Tree plantation", "Promoting commercial advertisements", "Health awareness campaigns"],
+    "correct_answer": "Promoting commercial advertisements"
+  },
+  {
+    "question_text": "What is the duration of an NSS Special Camp usually?",
+    "options": ["1 day", "7 days", "1 month", "3 months"],
+    "correct_answer": "7 days"
+  },
+  {
+    "question_text": "Which of the following is a core value promoted by NSS?",
+    "options": ["Profit maximization", "Social harmony", "Political dominance", "Urban exclusivity"],
+    "correct_answer": "Social harmony"
+  },
+  {
+    "question_text": "Who is responsible for overseeing NSS activities at the university level?",
+    "options": ["Municipal Commissioner", "Programme Coordinator", "District Collector", "School Principal"],
+    "correct_answer": "Programme Coordinator"
+  },
+  {
+    "question_text": "NSS volunteers primarily work with which of the following groups?",
+    "options": ["Corporate executives", "Local communities and students", "Foreign tourists", "Military personnel"],
+    "correct_answer": "Local communities and students"
+  },
+  {
+    "question_text": "Which of the following is a key objective of NSS?",
+    "options": ["Developing leadership skills through community service", "Promoting industrial growth", "Expanding urban infrastructure", "Encouraging political campaigns"],
+    "correct_answer": "Developing leadership skills through community service"
+  },
+  {
+    "question_text": "What type of projects do NSS volunteers typically undertake?",
+    "options": ["Building luxury apartments", "Sanitation drives and literacy programs", "Stock market investments", "International trade agreements"],
+    "correct_answer": "Sanitation drives and literacy programs"
+  },
+  {
+    "question_text": "How does NSS contribute to national integration?",
+    "options": ["By promoting regionalism", "By involving students from diverse backgrounds in service activities", "By supporting separatist movements", "By focusing only on urban areas"],
+    "correct_answer": "By involving students from diverse backgrounds in service activities"
+  },
+  {
+    "question_text": "The NSS was launched in 1969 to commemorate the 100th birth anniversary of which leader?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhash Chandra Bose", "Dr. B.R. Ambedkar"],
+    "correct_answer": "Mahatma Gandhi"
+  },
+  {
+    "question_text": "Which of the following is NOT a mandatory component of NSS volunteer work?",
+    "options": ["Participation in political rallies", "120 hours of community service per year", "Attending special camps", "Involvement in rural development projects"],
+    "correct_answer": "Participation in political rallies"
+  },
+  {
+    "question_text": "What is the primary focus of NSS's \"Shramdaan\" activities?",
+    "options": ["Organizing cultural festivals", "Voluntary manual labor for community welfare", "Conducting academic research", "Fundraising for private businesses"],
+    "correct_answer": "Voluntary manual labor for community welfare"
+  },
+  {
+    "question_text": "Which ministry is responsible for the administration of NSS in India?",
+    "options": ["Ministry of Health", "Ministry of Youth Affairs and Sports", "Ministry of Rural Development", "Ministry of Education"],
+    "correct_answer": "Ministry of Youth Affairs and Sports"
+  },
+  {
+    "question_text": "What is the significance of the NSS emblem (flame)?",
+    "options": ["Represents industrial growth", "Symbolizes the spirit of volunteerism and service", "Denotes political power", "Stands for military strength"],
+    "correct_answer": "Symbolizes the spirit of volunteerism and service"
+  },
+  {
+    "question_text": "Which of the following best describes the long-term impact of NSS on volunteers?",
+    "options": ["Development of leadership, empathy, and civic responsibility", "Guaranteed government jobs", "Exemption from academic exams", "Financial incentives for participation"],
+    "correct_answer": "Development of leadership, empathy, and civic responsibility"
+  },
+  {
+    "question_text": "What is the primary objective of NSS's rural camps?",
+    "options": ["Promoting urbanization", "Encouraging rural reconstruction and self-reliance", "Establishing corporate offices in villages", "Conducting political surveys"],
+    "correct_answer": "Encouraging rural reconstruction and self-reliance"
+  },
+  {
+    "question_text": "Which of the following is a key challenge faced by NSS volunteers during rural outreach programs?",
+    "options": ["Lack of awareness and resistance to change in rural communities", "Excessive funding from the government", "Over-participation of urban volunteers", "Limited scope for health-related activities"],
+    "correct_answer": "Lack of awareness and resistance to change in rural communities"
+  },
+  {
+    "question_text": "How does NSS contribute to environmental sustainability?",
+    "options": ["By promoting deforestation for development", "Through tree plantation, waste management, and water conservation projects", "By encouraging excessive use of plastic", "By ignoring climate change issues"],
+    "correct_answer": "Through tree plantation, waste management, and water conservation projects"
+  },
+  {
+    "question_text": "What is the role of NSS in disaster management?",
+    "options": ["Mobilizing volunteers for relief and rehabilitation efforts", "Avoiding involvement in emergency situations", "Focusing only on urban disaster response", "Leaving disaster management entirely to the government"],
+    "correct_answer": "Mobilizing volunteers for relief and rehabilitation efforts"
+  },
+  {
+    "question_text": "Which constitutional value is most closely aligned with NSS's philosophy of \"Not Me, But You\"?",
+    "options": ["Right to Property", "Fundamental Duty to renounce practices derogatory to women (Article 51A)", "Right to Freedom of Speech", "Directive Principle of Uniform Civil Code"],
+    "correct_answer": "Fundamental Duty to renounce practices derogatory to women (Article 51A)"
+  },
+  {
+    "question_text": "In the context of NSS's digital literacy programs, which initiative directly complements its objectives?",
+    "options": ["SWAYAM MOOCS", "Digital India's Common Service Centers", "National Digital Library", "UDISE+ portal"],
+    "correct_answer": "Digital India's Common Service Centers"
+  },
+  {
+    "question_text": "When planning a rural camp, which factor should be the PRIMARY consideration for NSS volunteers?",
+    "options": ["Number of social media posts about the camp", "Participatory needs assessment with the community", "Availability of luxury accommodations", "Political affiliations of village leaders"],
+    "correct_answer": "Participatory needs assessment with the community"
+  },
+  {
+    "question_text": "Which sustainable development goal is DIRECTLY addressed by NSS's focus on menstrual hygiene awareness?",
+    "options": ["SDG 7 (Clean Energy)", "SDG 3 (Good Health and Well-being)", "SDG 13 (Climate Action)", "SDG 9 (Industry Innovation)"],
+    "correct_answer": "SDG 3 (Good Health and Well-being)"
+  },
+  {
+    "question_text": "What is the most significant ethical challenge NSS volunteers might face during community work?",
+    "options": ["Maintaining confidentiality while documenting case studies", "Taking photographs for social media", "Receiving small tokens of appreciation", "Wearing the NSS uniform properly"],
+    "correct_answer": "Maintaining confidentiality while documenting case studies"
+  },
+  {
+    "question_text": "Which evaluation metric would be MOST appropriate for assessing a year-long NSS water conservation project?",
+    "options": ["Number of volunteers recruited", "Percentage increase in groundwater levels in the intervention area", "Amount of funding received", "Number of meetings conducted"],
+    "correct_answer": "Percentage increase in groundwater levels in the intervention area"
+  },
+  {
+    "question_text": "How does NSS's approach differ from NCC in terms of skill development?",
+    "options": ["NSS emphasizes community leadership while NCC focuses on discipline", "NSS provides military training", "NCC mandates international exchange programs", "NSS requires weapon handling skills"],
+    "correct_answer": "NSS emphasizes community leadership while NCC focuses on discipline"
+  },
+  {
+    "question_text": "Which psychological theory best explains the motivation behind long-term NSS volunteerism?",
+    "options": ["Pavlov's Classical Conditioning", "Maslow's Self-Actualization", "Skinner's Operant Conditioning", "Freud's Psychoanalysis"],
+    "correct_answer": "Maslow's Self-Actualization"
+  },
+  {
+    "question_text": "In disaster response, what unique advantage do NSS volunteers have over professional agencies?",
+    "options": ["Local knowledge and community trust", "Advanced technical equipment", "Legal authority to enforce orders", "International funding sources"],
+    "correct_answer": "Local knowledge and community trust"
+  },
+  {
+    "question_text": "Which innovative approach could NSS adopt to increase youth participation in rural development?",
+    "options": ["Gamification of community service through digital platforms", "Offering monetary compensation", "Reducing service hour requirements", "Limiting activities to urban areas"],
+    "correct_answer": "Gamification of community service through digital platforms"
+  },
+  {
+    "question_text": "During a rural camp, NSS volunteers discover child labor in local handicraft units. What should be their IMMEDIATE course of action while adhering to NSS principles?",
+    "options": ["Publicly shame the business owners on social media", "Document cases discreetly and report to Childline (1098)", "Boycott all village products in protest", "Ignore the issue to maintain community relations"],
+    "correct_answer": "Document cases discreetly and report to Childline (1098)"
+  },
+  {
+    "question_text": "Which paradox might NSS volunteers face when implementing digital literacy programs in remote areas?",
+    "options": ["Teaching online skills in regions with poor internet connectivity", "Focusing only on senior citizens", "Using only English language materials", "Avoiding government schemes"],
+    "correct_answer": "Teaching online skills in regions with poor internet connectivity"
+  },
+  {
+    "question_text": "How does the concept of 'Antyodaya' (upliftment of the last person) influence NSS's priority-setting for village adoption?",
+    "options": ["By targeting the most marginalized households first", "By focusing only on educated youth", "By prioritizing wealthy farmers", "By excluding scheduled castes/tribes"],
+    "correct_answer": "By targeting the most marginalized households first"
+  },
+  {
+    "question_text": "When evaluating a sanitation project's success, which qualitative indicator would be MOST meaningful?",
+    "options": ["Number of toilets constructed", "Change in women's sense of safety and dignity", "Amount of cement used", "Political speeches given"],
+    "correct_answer": "Change in women's sense of safety and dignity"
+  },
+  {
+    "question_text": "Which constitutional article provides the strongest legal foundation for NSS's gender equality programs?",
+    "options": ["Article 370", "Article 15(3) - Special provisions for women", "Article 44", "Article 356"],
+    "correct_answer": "Article 15(3) - Special provisions for women"
+  },
+  {
+    "question_text": "In a water conservation project, which traditional knowledge system should NSS integrate with modern techniques?",
+    "options": ["Johads and Ahar-Pyne systems of Rajasthan", "British colonial irrigation", "American sprinkler patents", "Desert farming methods"],
+    "correct_answer": "Johads and Ahar-Pyne systems of Rajasthan"
+  },
+  {
+    "question_text": "What critical thinking skill is MOST developed through NSS's participatory rural appraisal methods?",
+    "options": ["Rote memorization", "Systems thinking about cause-effect relationships", "Blind obedience", "Isolated problem-solving"],
+    "correct_answer": "Systems thinking about cause-effect relationships"
+  },
+  {
+    "question_text": "Which behavioral change theory best explains NSS's approach to Swachh Bharat campaigns?",
+    "options": ["Stages of Change Model (Prochaska)", "Social Identity Theory", "Cognitive Dissonance", "Attachment Theory"],
+    "correct_answer": "Stages of Change Model (Prochaska)"
+  },
+  {
+    "question_text": "When documenting project impacts, which ethical consideration is MOST important for NSS volunteers?",
+    "options": ["Obtaining informed consent for photographs/stories", "Using complex academic jargon", "Highlighting only positive outcomes", "Focusing solely on quantitative data"],
+    "correct_answer": "Obtaining informed consent for photographs/stories"
+  },
+  {
+    "question_text": "Which management principle is violated if NSS units conduct similar programs in the same village without coordination?",
+    "options": ["Unity of Command", "Division of Work", "Scalar Chain", "Equity"],
+    "correct_answer": "Unity of Command"
+  },
+  {
+    "question_text": "An NSS team planning a digital literacy camp in a tribal area finds that most beneficiaries speak only their native dialect. What is the MOST appropriate approach?",
+    "options": ["Cancel the program due to language barriers", "Collaborate with local Anganwadi workers as translators", "Teach only in English to motivate learning", "Limit training to visual demonstrations only"],
+    "correct_answer": "Collaborate with local Anganwadi workers as translators"
+  },
+  {
+    "question_text": "When implementing a waste management project, which factor is CRUCIAL for ensuring long-term community adoption?",
+    "options": ["Establishing a clear economic benefit for participants", "Relying solely on municipal workers", "Using expensive imported equipment", "Focusing only on awareness lectures"],
+    "correct_answer": "Establishing a clear economic benefit for participants"
+  },
+  {
+    "question_text": "Which leadership style is MOST effective for NSS volunteers conducting rural camps?",
+    "options": ["Autocratic decision-making", "Participatory and servant leadership", "Laissez-faire approach", "Transactional reward-based"],
+    "correct_answer": "Participatory and servant leadership"
+  },
+  {
+    "question_text": "How should NSS volunteers handle cultural resistance to menstrual hygiene workshops in conservative communities?",
+    "options": ["Engage local female leaders as champions first", "Force attendance through school mandates", "Avoid the topic completely", "Conduct mixed-gender sessions immediately"],
+    "correct_answer": "Engage local female leaders as champions first"
+  },
+  {
+    "question_text": "Which evaluation method would BEST measure the impact of an NSS adult literacy program?",
+    "options": ["Pre- and post-assessments of banking form completion skills", "Counting attendance sheets", "Measuring hours spent teaching", "Evaluating volunteer satisfaction"],
+    "correct_answer": "Pre- and post-assessments of banking form completion skills"
+  },
+  {
+    "question_text": "When documenting a successful village project, which element is MOST important for replication?",
+    "options": ["Context-specific adaptations made during implementation", "Number of government officials present", "Total budget spent", "Length of final report"],
+    "correct_answer": "Context-specific adaptations made during implementation"
+  },
+  {
+    "question_text": "Which sustainable development principle is MOST compromised if an NSS water project uses PVC pipes exclusively?",
+    "options": ["Life-cycle thinking (non-biodegradable materials)", "Gender inclusion", "Digital access", "Political participation"],
+    "correct_answer": "Life-cycle thinking (non-biodegradable materials)"
+  },
+  {
+    "question_text": "What is the PRIMARY cognitive bias NSS volunteers must avoid when assessing community needs?",
+    "options": ["Assuming urban solutions fit rural contexts", "Overestimating local resources", "Underestimating volunteer capabilities", "Ignoring weather patterns"],
+    "correct_answer": "Assuming urban solutions fit rural contexts"
+  },
+  {
+    "question_text": "Which funding approach aligns BEST with NSS's philosophy for small-scale projects?",
+    "options": ["Crowdfunding from local stakeholders", "Relying solely on corporate CSR", "Waiting for international grants", "Personal loans from volunteers"],
+    "correct_answer": "Crowdfunding from local stakeholders"
+  },
+  {
+    "question_text": "When conflict arises during a community project, which Gandhian principle should guide resolution?",
+    "options": ["Sarvodaya (welfare of all)", "Swadeshi (localism)", "Satyagraha (non-violence)", "Trusteeship"],
+    "correct_answer": "Satyagraha (non-violence)"
+  },
+  {
+    "question_text": "What is the motto of NSS?",
+    "options": ["Unity and Service", "Selfless Service", "Not Me, But You", "Service to Humanity"],
+    "correct_answer": "Not Me, But You"
+  },
+  {
+    "question_text": "What is the symbol of NSS?",
+    "options": ["Lotus", "Wheel", "Star", "Flame"],
+    "correct_answer": "Flame"
+  },
+  {
+    "question_text": "Which ministry governs the NSS?",
+    "options": ["Ministry of Education", "Ministry of Youth Affairs and Sports", "Ministry of Social Justice", "Ministry of Rural Development"],
+    "correct_answer": "Ministry of Youth Affairs and Sports"
+  },
+  {
+    "question_text": "The NSS day is celebrated on:",
+    "options": ["January 26", "August 15", "September 24", "October 2"],
+    "correct_answer": "September 24"
+  },
+  {
+    "question_text": "How many types of camps does NSS organize?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": "2"
+  },
+  {
+    "question_text": "What is the primary focus of NSS rural camps?",
+    "options": ["Urban development", "Rural reconstruction", "Industrial growth", "Technological innovation"],
+    "correct_answer": "Rural reconstruction"
+  },
+  {
+    "question_text": "What is the primary goal of organic farming?",
+    "options": ["Maximizing crop yield", "Using synthetic fertilizers", "Sustainable and eco-friendly farming practices", "Introducing genetically modified crops"],
+    "correct_answer": "Sustainable and eco-friendly farming practices"
+  },
+  {
+    "question_text": "Which state in India is known as the first fully organic state?",
+    "options": ["Kerala", "Sikkim", "Punjab", "Rajasthan"],
+    "correct_answer": "Sikkim"
+  },
+  {
+    "question_text": "Which of the following technologies is used to ensure transparency in agricultural supply chains?",
+    "options": ["Blockchain", "GPS", "Solar panels", "IoT sensors"],
+    "correct_answer": "Blockchain"
+  },
+  {
+    "question_text": "What does the term \"Refuse\" in the 5 R's mean?",
+    "options": ["To say no to unnecessary items and packaging", "To reuse old products", "To recycle waste into new products", "To dispose of waste in landfills"],
+    "correct_answer": "To say no to unnecessary items and packaging"
+  },
+  {
+    "question_text": "What is the role of private organizations in waste management?",
+    "options": ["Enforcing laws on waste disposal", "Providing innovative recycling and waste processing solutions", "Regulating landfill sites", "Collecting taxes for waste services"],
+    "correct_answer": "Providing innovative recycling and waste processing solutions"
+  },
+  {
+    "question_text": "What is the primary purpose of composting?",
+    "options": ["To recycle metals", "To convert organic waste into nutrient-rich manure", "To burn waste for energy", "To store waste in landfills"],
+    "correct_answer": "To convert organic waste into nutrient-rich manure"
+  },
+  {
+    "question_text": "What is the role of the National Green Tribunal (NGT) in waste management?",
+    "options": ["Collecting waste from households", "Enforcing environmental laws and regulations", "Funding private waste management companies", "Building landfill sites"],
+    "correct_answer": "Enforcing environmental laws and regulations"
+  },
+  {
+    "question_text": "What is the primary objective of an information imparting club for women?",
+    "options": ["To promote gender inequality", "To provide women with knowledge and skills for social and economic empowerment", "To restrict women to household activities", "To focus solely on entertainment activities"],
+    "correct_answer": "To provide women with knowledge and skills for social and economic empowerment"
+  },
+  {
+    "question_text": "What is the long-term impact of such clubs on women’s empowerment?",
+    "options": ["Dependency on external support", "Enhanced decision-making abilities, financial independence, and community leadership", "Increased social isolation", "Decreased participation in economic activities"],
+    "correct_answer": "Enhanced decision-making abilities, financial independence, and community leadership"
+  },
+  {
+    "question_text": "Which of the following is a widely used water conservation technique?",
+    "options": ["Deforestation", "Rainwater harvesting", "Over-irrigation", "Industrial discharge"],
+    "correct_answer": "Rainwater harvesting"
+  },
+  {
+    "question_text": "Which traditional water conservation technique is commonly practiced in India?",
+    "options": ["Drip irrigation", "Stepwells and tanks", "Desalination plants", "Water bottling"],
+    "correct_answer": "Stepwells and tanks"
+  },
+  {
+    "question_text": "Which international initiative focuses on sustainable water management?",
+    "options": ["UN-Water", "Kyoto Protocol", "Montreal Protocol", "Paris Agreement"],
+    "correct_answer": "UN-Water"
+  },
+  {
+    "question_text": "How can educational institutions contribute to water conservation?",
+    "options": ["By including water conservation in their curriculum", "By organizing awareness campaigns", "By implementing rainwater harvesting systems on campus", "All of the above"],
+    "correct_answer": "All of the above"
+  },
+  {
+    "question_text": "What is the primary objective of a business proposal aimed at enhancing village income?",
+    "options": ["To encourage urban migration", "To create sustainable income-generating opportunities for villagers", "To increase dependency on subsidies", "To promote only traditional farming practices"],
+    "correct_answer": "To create sustainable income-generating opportunities for villagers"
+  },
+  {
+    "question_text": "What is the first step in preparing a business proposal for a village?",
+    "options": ["Identifying local resources and potential opportunities", "Hiring external consultants", "Writing the conclusion of the proposal", "Ignoring local challenges"],
+    "correct_answer": "Identifying local resources and potential opportunities"
+  },
+  {
+    "question_text": "What is the role of technology in implementing a business proposal in a village?",
+    "options": ["Increasing dependency on manual labour.", "Providing access to markets, weather forecasts, and training through digital platforms", "Discouraging innovation", "Limiting villagers’ participation"],
+    "correct_answer": "Providing access to markets, weather forecasts, and training through digital platforms"
+  },
+  {
+    "question_text": "What is the primary goal of improving local schools' performance?",
+    "options": ["To increase dropout rates", "To ensure quality education and better opportunities for higher education", "To reduce the number of students in classrooms", "To limit access to technical education"],
+    "correct_answer": "To ensure quality education and better opportunities for higher education"
+  },
+  {
+    "question_text": "Which of the following is a barrier to increasing enrollment in higher education?",
+    "options": ["Lack of awareness about career opportunities", "Availability of scholarships", "Accessible vocational training centers", "Active participation of parents"],
+    "correct_answer": "Lack of awareness about career opportunities"
+  },
+  {
+    "question_text": "What is the importance of technical education in schools?",
+    "options": ["It prepares students for specialized careers in fields like engineering and IT.", "It reduces practical skills among students.", "It focuses only on arts and humanities.", "It discourages innovation."],
+    "correct_answer": "It prepares students for specialized careers in fields like engineering and IT."
+  },
+  {
+    "question_text": "What is the significance of watershed management in rural areas?",
+    "options": ["It focuses on conserving and managing water resources in a specific area.", "It promotes deforestation for water use.", "It encourages unregulated groundwater extraction.", "It discourages community involvement."],
+    "correct_answer": "It focuses on conserving and managing water resources in a specific area."
+  },
+  {
+    "question_text": "What is a long-term benefit of a sustainable water management system in rural areas?",
+    "options": ["Depletion of groundwater levels", "Improved agricultural productivity, better health, and environmental conservation", "Increased dependency on external water sources", "Reduced access to clean water"],
+    "correct_answer": "Improved agricultural productivity, better health, and environmental conservation"
+  },
+  {
+    "question_text": "What is the primary aim of the Digital India initiative?",
+    "options": ["To promote traditional manual processes", "To transform India into a digitally empowered society and knowledge economy", "To increase the use of paper in government offices", "To focus only on urban areas"],
+    "correct_answer": "To transform India into a digitally empowered society and knowledge economy"
+  },
+  {
+    "question_text": "What does Atmanirbhar Bharat translate to?",
+    "options": ["Dependent India", "Self-reliant India", "Technologically backward India", "Import-dependent India"],
+    "correct_answer": "Self-reliant India"
+  },
+  {
+    "question_text": "Which of the following is a major benefit of skill development programs?",
+    "options": ["Enhancing employability and reducing unemployment", "Promoting theoretical knowledge over practical skills", "Limiting access to job opportunities", "Discouraging innovation"],
+    "correct_answer": "Enhancing employability and reducing unemployment"
+  },
+  {
+    "question_text": "What is one of the key components of the Digital India initiative?",
+    "options": ["BharatNet for rural broadband connectivity", "Increasing manual data entry", "Reducing internet access in rural areas", "Discouraging e-governance"],
+    "correct_answer": "BharatNet for rural broadband connectivity"
+  },
+  {
+    "question_text": "What is the main objective of public awareness in rural outreach programs?",
+    "options": ["To increase rural population", "To educate and inform rural communities about social, health, and economic issues", "To promote urbanization", "To reduce government intervention"],
+    "correct_answer": "To educate and inform rural communities about social, health, and economic issues"
+  },
+  {
+    "question_text": "Which of the following topics is typically addressed in rural public awareness programs?",
+    "options": ["Health and sanitation", "Traditional customs", "Urban development", "International politics"],
+    "correct_answer": "Health and sanitation"
+  },
+  {
+    "question_text": "Which of the following is a successful example of a rural outreach program in India?",
+    "options": ["Swachh Bharat Mission", "Atmanirbhar Bharat", "Digital India", "Make in India"],
+    "correct_answer": "Swachh Bharat Mission"
+  },
+  {
+    "question_text": "What is the role of NGOs in rural outreach programs?",
+    "options": ["To provide funding and implement awareness campaigns", "To restrict rural participation", "To limit educational opportunities", "To focus only on urban areas"],
+    "correct_answer": "To provide funding and implement awareness campaigns"
+  },
+  {
+    "question_text": "What is the primary purpose of social responsibility in a community?",
+    "options": ["To promote individual success over community welfare", "To improve the quality of life and well-being of the community", "To reduce government involvement in social issues", "To increase personal wealth"],
+    "correct_answer": "To improve the quality of life and well-being of the community"
+  },
+  {
+    "question_text": "Which of the following is an example of social responsibility?",
+    "options": ["Ignoring environmental issues for personal gain", "Volunteering to help local schools and hospitals", "Disregarding laws and regulations", "Promoting unhealthy practices for profit"],
+    "correct_answer": "Volunteering to help local schools and hospitals"
+  },
+  {
+    "question_text": "How can individuals contribute to social responsibility?",
+    "options": ["By ignoring social issues and focusing only on personal goals", "By engaging in charitable acts, supporting sustainability, and respecting human rights", "By promoting discrimination and inequality", "By avoiding any community involvement"],
+    "correct_answer": "By engaging in charitable acts, supporting sustainability, and respecting human rights"
+  },
+  {
+    "question_text": "What is an example of social responsibility at the workplace?",
+    "options": ["Ignoring employee well-being and safety", "Providing a safe and supportive work environment, promoting diversity, and ensuring fair wages", "Encouraging unhealthy work practices", "Focusing only on increasing profits"],
+    "correct_answer": "Providing a safe and supportive work environment, promoting diversity, and ensuring fair wages"
+  },
+  {
+    "question_text": "How can social responsibility contribute to sustainable development?",
+    "options": ["By focusing only on short-term profits", "By promoting practices that benefit both society and the environment, ensuring long-term prosperity", "By ignoring environmental concerns", "By encouraging resource depletion"],
+    "correct_answer": "By promoting practices that benefit both society and the environment, ensuring long-term prosperity"
+  },
+  {
+    "question_text": "How many hours of service must an NSS volunteer complete in two years?",
+    "options": ["100 hours", "120 hours", "240 hours", "300 hours"],
+    "correct_answer": "240 hours"
+  },
+  {
+    "question_text": "Who can join NSS?",
+    "options": ["Students only", "Teachers only", "Students and teachers", "Government officials"],
+    "correct_answer": "Students and teachers"
+  },
+  {
+    "question_text": "What is the primary goal of government school rejuvenation programs?",
+    "options": ["To increase tuition fees", "To improve the quality of education and infrastructure in government schools", "To reduce the number of schools", "To privatize government schools"],
+    "correct_answer": "To improve the quality of education and infrastructure in government schools"
+  },
+  {
+    "question_text": "What is the main benefit of plantation in urban areas?",
+    "options": ["To increase pollution", "To provide aesthetic value and improve air quality", "To reduce green spaces", "To increase construction projects"],
+    "correct_answer": "To provide aesthetic value and improve air quality"
+  },
+  {
+    "question_text": "What does the term \"know your plants\" refer to?",
+    "options": ["Ignoring the importance of plants", "Learning about the characteristics, uses, and benefits of various plants", "Focusing only on ornamental plants", "Avoiding plant care and maintenance"],
+    "correct_answer": "Learning about the characteristics, uses, and benefits of various plants"
+  },
+  {
+    "question_text": "Which of the following plants is known for its medicinal properties and is commonly adopted in rural areas?",
+    "options": ["Aloe Vera", "Cactus", "Lily", "Fern"],
+    "correct_answer": "Aloe Vera"
+  },
+  {
+    "question_text": "What is the best time for planting trees in most regions?",
+    "options": ["During the peak summer months", "During the rainy season or early spring", "During winter", "In the middle of the dry season"],
+    "correct_answer": "During the rainy season or early spring"
+  },
+  {
+    "question_text": "Which of the following is a key challenge in improving government school infrastructure?",
+    "options": ["Lack of student interest", "Limited financial resources and budget allocation", "Excessive infrastructure", "Over-abundance of teachers"],
+    "correct_answer": "Limited financial resources and budget allocation"
+  },
+  {
+    "question_text": "NSS was launched to commemorate the birth centenary of which leader?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Subhash Chandra Bose"],
+    "correct_answer": "Mahatma Gandhi"
+  },
+  {
+    "question_text": "NSS units conduct \"Shramdaan\" activities, which refer to:",
+    "options": ["Teaching underprivileged children", "Voluntary manual labor", "Organizing competitions", "Fundraising for NGOs"],
+    "correct_answer": "Voluntary manual labor"
+  }
+]

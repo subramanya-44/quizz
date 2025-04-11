@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSS Quiz Practice</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div id="start-screen" class="screen">
+            <h1>NSS Quiz Practice</h1>
+            <p>Choose your quiz length:</p>
+            <div class="quiz-options">
+                <button class="quiz-length-btn" data-length="20">Short Quiz (20 Questions)</button>
+                <button class="quiz-length-btn" data-length="50">Medium Quiz (50 Questions)</button>
+                <button class="quiz-length-btn" data-length="100">Long Quiz (100 Questions)</button>
+            </div>
+        </div>
+
+        <div id="quiz-screen" class="screen hidden">
+            <div class="quiz-header">
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div id="progress" class="progress"></div>
+                    </div>
+                    <span id="question-count">Question 1/100</span>
+                </div>
+                <button id="back-to-menu-btn" class="back-btn">Back to Menu</button>
+            </div>
+
+            <div class="question-container">
+                <h2 id="question-text"></h2>
+                <div id="options-container" class="options-container"></div>
+            </div>
+
+            <div id="feedback" class="feedback hidden">
+                <p id="feedback-text"></p>
+                <button id="next-btn">Next Question</button>
+            </div>
+        </div>
+
+        <div id="result-screen" class="screen hidden">
+            <h1>Quiz Complete!</h1>
+            <div class="score-container">
+                <p>Your Score: <span id="final-score">0</span>/<span id="total-questions">0</span></p>
+                <p>Correct Answers: <span id="correct-count">0</span></p>
+                <p>Incorrect Answers: <span id="incorrect-count">0</span></p>
+                <div id="rating" class="rating"></div>
+            </div>
+            <div class="result-buttons">
+                <button id="restart-btn">New Quiz</button>
+                <button id="retry-wrong-btn">Retry Wrong Answers</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="watermark">
+        <a href="https://github.com/subramanya-44" target="_blank">Vibe coded by Subramanya</a>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html> 
